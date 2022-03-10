@@ -1,8 +1,7 @@
 body {
-    background-image: url(../../assets/assets/background.png);
+    background-image: url(../assets/assets/background.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: top;
     background-color: var(--body-background);
-    overflow-x: hidden;
 }
