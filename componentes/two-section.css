@@ -29,37 +29,37 @@
 .two-section .numbers span {
     font-style: normal;
     font-weight: 600;
-    font-size: 20px;
-    line-height: 24px;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
     color: var(--subtitle-color);
 }
 
 .two-section .texts-banner {
-    width: 80vw;
+    width: 100vw;
 }
 
 .two-section .texts {
-    width: 952px;
-    height: 214px;
+    width: 59.5rem;
+    height: 13.375rem;
     color: var(--text-color);
     display: flex;
     justify-content: space-between;
-    margin: 0px 138px 0px 68px;
+    margin: 0rem 8.625rem 0rem 4.25rem;
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 22px;
-    margin-top: 70.6px;
+    font-size: 1.125rem;
+    line-height: 1.375rem;
+    margin-top: 4.4125rem;
 }
 
 .two-section .texts .one-text {
-    width: 435px;
-    height: 114px;
+    width: 27.1875rem;
+    height: 7.125rem;
 }
 
 .two-section .texts .two-text {
-    width: 391px;
-    height: 115px;
+    width: 24.4375rem;
+    height: 7.1875rem;
 }
 
 .two-section .texts a {
@@ -67,6 +67,6 @@
 }
 
 .two-section img {
-    width: 1158px;
-    height: 300px;
+    width: 100%;
+    /* height: 18.75rem; */
 }

@@ -1,7 +1,8 @@
 body {
     background-image: url(../assets/assets/background.png);
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
     background-color: var(--body-background);
+    height: 100vh;
 }

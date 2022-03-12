@@ -2,7 +2,7 @@
     display: grid;
     grid-template-areas: "img-grid img-grid img-grid img-grid" "img-grid img-grid img-grid img-grid";
     grid-template-rows: 12.3737rem 12.3737rem;
-    grid-template-columns: 19.1956rem 19.1956rem 19.1956rem 19.1956rem;
+    grid-template-columns: repeat(auto-fit, minmax(15.625rem, 1fr));
     width: 79.8125rem;
     height: 28.525rem;
     row-gap: 3.7775rem;
@@ -15,4 +15,5 @@
     height: 12.3737rem;
     border: 0.0625rem solid var(--text-color);
     overflow: hidden;
+    grid-area: "img-grid";
 }

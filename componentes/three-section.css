@@ -1,0 +1,171 @@
+.three-section {
+    width: 100%;
+    max-width: 1265.9px;
+    max-height: 937px;
+    color: var(--text-color);
+    margin-top: 149.99px;
+}
+
+.three-section h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3.125rem;
+    line-height: 3.8125rem;
+    margin-bottom: 150px;
+}
+
+.three-section h1 span {
+    color: var(--color-logo);
+}
+
+.three-section .wrapper-container {
+    width: 100%;
+    max-width: 1265.9px;
+    max-height: 732px;
+    display: flex;
+}
+
+.three-section .wrapper-container .container-section {
+    width: 100%;
+    max-width: 633px;
+    max-height: 732px;
+    border-right: 1px solid var(--subtitle-color);
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+}
+
+.three-section .wrapper-container .container-section .card-container {
+    width: 100%;
+    max-width: 376.9px;
+    max-width: 337px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.three-section .wrapper-container .container-section .card-container .h2-img {
+    display: inline-flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 362.49px;
+    max-height: 39.46px;
+    margin-bottom: 30.49px;
+}
+
+.three-section .wrapper-container .container-section .card-container .h2-img h2 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.875rem;
+    line-height: 2.3125rem;
+}
+
+.three-section .wrapper-container .container-section .card-container .h2-img img {
+    width: 100%;
+    max-width: 27.95px;
+    max-height: 27.95px;
+}
+
+.three-section .wrapper-container .container-section .card-container .p-span {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 350px;
+    max-height: 27px;
+    margin-bottom: 26px;
+}
+
+.three-section .wrapper-container .container-section .card-container .p-span p {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color: var(--subtitle-color);
+}
+
+.three-section .wrapper-container .container-section .card-container .p-span span {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color: var(--color-logo);
+}
+
+.three-section .wrapper-container .container-section .card-container img {
+    width: 100%;
+    max-width: 350px;
+    max-height: 200px;
+}
+
+/* container2-section */
+.three-section .wrapper-container .container2-section {
+    width: 100%;
+    max-width: 633px;
+    max-height: 732px;
+    /* border-right: 1px solid var(--subtitle-color); */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.three-section .wrapper-container .container2-section .card-container {
+    width: 100%;
+    max-width: 376.9px;
+    max-width: 337px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.three-section .wrapper-container .container2-section .card-container .h2-img {
+    display: inline-flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 362.49px;
+    max-height: 39.46px;
+    margin-bottom: 30.49px;
+}
+
+.three-section .wrapper-container .container2-section .card-container .h2-img h2 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.875rem;
+    line-height: 2.3125rem;
+}
+
+.three-section .wrapper-container .container2-section .card-container .h2-img img {
+    width: 100%;
+    max-width: 27.95px;
+    max-height: 27.95px;
+}
+
+.three-section .wrapper-container .container2-section .card-container .p-span {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 350px;
+    max-height: 27px;
+    margin-bottom: 26px;
+}
+
+.three-section .wrapper-container .container2-section .card-container .p-span p {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color: var(--subtitle-color);
+}
+
+.three-section .wrapper-container .container2-section .card-container .p-span span {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color: var(--color-logo);
+}
+
+.three-section .wrapper-container .container2-section .card-container img {
+    width: 100%;
+    max-width: 350px;
+    max-height: 200px;
+}

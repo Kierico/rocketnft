@@ -2,7 +2,7 @@
     display: flex;
     width: 79.8125rem;
     height: 15.375rem;
-    margin: 70px auto 0;
+    margin: 4.375rem auto 0;
     justify-content: space-between;
 }
 
@@ -48,17 +48,17 @@
 
 .one-section.-two-column {
     align-items: center;
-    margin-right: 10px;
+    margin-right: 0.625rem;
 }
 
 .one-section.-two-column p {
     width: 37.25rem;
     height: 15.375rem;
-    font-size: 50px;
+    font-size: 3.125rem;
     font-style: normal;
     font-weight: 700;
     line-height: 3.8125rem;
-    margin-right: 10px;
+    margin-right: 0.625rem;
 }
 
 .one-section.-two-column span {
