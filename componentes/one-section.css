@@ -1,8 +1,8 @@
 .container.-one-section {
     display: flex;
     width: 79.8125rem;
-    height: 15.375rem;
-    margin: 4.375rem auto 0;
+    height: 300px;
+    margin: 90px auto 0;
     justify-content: space-between;
 }
 
@@ -28,7 +28,7 @@
 .one-section.-group-image {
     width: 23.0625rem;
     height: 5.4375rem;
-    align-items: center;
+    align-items: flex-end;
 }
 
 .one-section.-group-image img {
@@ -46,9 +46,10 @@
     font-weight: bold;
 }
 
+/* two-column */
 .one-section.-two-column {
     align-items: center;
-    margin-right: 0.625rem;
+    /* margin-right: 0.625rem; */
 }
 
 .one-section.-two-column p {

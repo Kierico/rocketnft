@@ -24,6 +24,10 @@ header ul {
     height: 1.5rem;
 }
 
+header li {
+    list-style: none;
+}
+
 header a {
     text-decoration: none;
     color: var(--text-color);

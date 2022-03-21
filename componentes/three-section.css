@@ -27,12 +27,14 @@
 
 .three-section .wrapper-container .container-section {
     width: 100%;
-    max-width: 633px;
+    max-width: 676.9px;
     max-height: 732px;
     border-right: 1px solid var(--subtitle-color);
     display: flex;
     flex-direction: column;
     /* align-items: center; */
+    justify-content: space-between;
+    gap: 50px;
 }
 
 .three-section .wrapper-container .container-section .card-container {
@@ -41,7 +43,6 @@
     max-width: 337px;
     display: flex;
     flex-direction: column;
-    margin-bottom: 50px;
 }
 
 .three-section .wrapper-container .container-section .card-container .h2-img {
@@ -106,6 +107,8 @@
     display: flex;
     flex-direction: column;
     align-items: flex-end;
+    justify-content: space-between;
+    gap: 50px;
 }
 
 .three-section .wrapper-container .container2-section .card-container {
@@ -114,7 +117,6 @@
     max-width: 337px;
     display: flex;
     flex-direction: column;
-    margin-bottom: 50px;
 }
 
 .three-section .wrapper-container .container2-section .card-container .h2-img {
